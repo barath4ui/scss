@@ -1,8 +1,16 @@
 ## Welcome to GitHub Pages
 
+## Sass in Angular
+$ ng new project-name --style=scss 
+
+## Sass URL
+https://barath4ui.github.io/scss/
+
 You can use the [editor on GitHub](https://github.com/barath4ui/scss/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### Markdown
 
